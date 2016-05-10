@@ -6,3 +6,5 @@ Hola a todos!!!
 Éste es sólo un breve texto para aprender a manejar Git editando un sencillo README.
 
 Saludos!!!
+
+Coño, a ver si ahora sale más mejor!!!
